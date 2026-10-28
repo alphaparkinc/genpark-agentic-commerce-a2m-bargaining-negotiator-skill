@@ -1,0 +1,15 @@
+{
+  "name": "genpark-agentic-commerce-a2m-bargaining-negotiator-skill",
+  "version": "1.0.0",
+  "description": "GenPark Agentic Commerce A2M Bargaining Negotiator - Executes automated Rubinstein strategic bargaining and multi-item bundling negotiations between AI agents and merchant gateways.",
+  "category": "Service",
+  "mcp_entry": "mcp_server.py",
+  "python_version": ">=3.9",
+  "tags": [
+    "agentic-commerce",
+    "a2m-negotiation",
+    "rubinstein-bargaining",
+    "automated-pricing",
+    "mcp"
+  ]
+}
